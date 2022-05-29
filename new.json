@@ -1,5 +1,7 @@
-Koneva Tatiana
-33
-One cat
-150000
-
+{
+  "name": "Koneva Tatiana",
+  "age": 33,
+  "animals": "One cat",
+  "salary": "150000 rur"
+}
+  

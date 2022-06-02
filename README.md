@@ -95,16 +95,12 @@ ESC
 git add . 
 git commit -m "first json_1" 
 git push
-13. На веб интерфейсе создать файл *bug_report.json*.
 ```
-в репозитории JSON кликаю справа на кнопку *ADD FILE* 
+13. На веб интерфейсе создать файл *bug_report.json*.
+В репозитории JSON кликаю справа на кнопку *ADD FILE* 
 creat new file  
 в *NAME YOUR FILE* прописываю bug_report.json
-кликаю внизу на кнопку *Commit new file*
-```
-13. Сделать Commit changes (сохранить) изменения на веб интерфейсе. 
-```bash
-какие изменения? они только в 18 пункте
+кликаю внизу на кнопку *Commit new file* 
 ```
 14. На веб интерфейсе модифицировать файл *bug_report.json*, добавить баг репорт в формате JSON. 
 ```bash

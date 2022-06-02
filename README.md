@@ -101,6 +101,7 @@ git push
 creat new file  
 в *NAME YOUR FILE* прописываю bug_report.json
 кликаю внизу на кнопку *Commit new file*
+```
 13. Сделать Commit changes (сохранить) изменения на веб интерфейсе. 
 ```bash
 какие изменения? они только в 18 пункте
